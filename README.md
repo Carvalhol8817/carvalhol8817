@@ -109,20 +109,13 @@ Tenho estudado constantemente Python, lógica de programação, Git/GitHub e des
 
 ## 📊 Estatísticas
 
-<p align="center">
+<div align="center">
 
-<img 
-  height="180em" 
-  src="https://github-readme-stats.vercel.app/api?username=Carvalhol8817&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
-/>
+<img height="130em" src="https://github-readme-streak-stats.herokuapp.com/?user=Carvalhol8817&theme=tokyonight&hide_border=true"/>
 
-<img 
-  height="180em" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carvalhol8817&layout=compact&langs_count=7&theme=tokyonight"
-/>
+<img height="130em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Carvalhol8817&layout=compact&theme=tokyonight&card_width=320"/>
 
-</p>
-
+</div>
 ---
 
 ## 📚 Atualmente Estudando
